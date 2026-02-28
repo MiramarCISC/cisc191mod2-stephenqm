@@ -1,6 +1,6 @@
 package edu.sdccd.cisc191;
 
-class Student {
+public class Student {
     private String name;
     private int id;
     private double gpa;
