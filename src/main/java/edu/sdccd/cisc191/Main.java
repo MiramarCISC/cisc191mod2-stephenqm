@@ -1,6 +1,6 @@
 package edu.sdccd.cisc191;
 
-//imports
+//import
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Comparator;
